@@ -1,0 +1,16 @@
+robot-ota-sys
+Copyright 2026 AlanFelixChen
+
+This product includes software developed by:
+- SWUpdate (GPL 2.0)
+  https://github.com/sbabic/swupdate
+- U-Boot (GPL 2.0)
+  https://github.com/u-boot/u-boot
+- mbedTLS (Apache 2.0)
+  https://github.com/Mbed-TLS/mbedtls
+- zchunk (BSD)
+  https://github.com/zchunk/zchunk
+- libcurl (MIT)
+  https://github.com/curl/curl
+- mosquitto (BSD/EPL 2.0)
+  https://github.com/eclipse/mosquitto
