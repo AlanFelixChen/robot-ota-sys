@@ -36,3 +36,6 @@
 
 本项目采用 [Apache License 2.0](LICENSE) 开源协议。
 
+## 版权声明
+Copyright © 2026 AlanFelixChen
+除非另有说明，本项目的所有代码、文档、设计文件均为项目作者所有。
